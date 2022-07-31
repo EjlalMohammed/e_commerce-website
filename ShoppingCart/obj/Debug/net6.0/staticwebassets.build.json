@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L1p68z+fsoINfIA2oE+mjClt8DUrorAhUw9kkx+ivGo=",
+  "Hash": "RdE0mkkpSt+8FJti0r3kAu/t7EijOUkKVup3geaqLiU=",
   "Source": "ShoppingCart",
   "BasePath": "_content/ShoppingCart",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingCart.styles.css",
-      "SourceId": "ShoppingCart",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/ShoppingCart",
-      "RelativePath": "ShoppingCart.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingCart.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css",
-      "SourceId": "ShoppingCart",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/ShoppingCart",
-      "RelativePath": "ShoppingCart.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingCart.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart\\wwwroot\\css\\site.css",
       "SourceId": "ShoppingCart",

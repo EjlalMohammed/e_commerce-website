@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using ShoppingCart.Service.Data;
 using ShoppingCart.Service.Infrastructure;
 using ShoppingCart.Service.Repository;
 
@@ -8,7 +10,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<ICategory, CategoryRepo>();
 builder.Services.AddTransient<IProduct, ProductRepo>();
-
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("sqlConn")));
 
 var app = builder.Build();
 

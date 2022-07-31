@@ -22,3 +22,5 @@ C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\ne
 C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\refint\shoppingCart.Domain.dll
 C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.pdb
 C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\ref\shoppingCart.Domain.dll
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\bin\Debug\net6.0\shoppingCart.Domain.runtimeconfig.json
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.genruntimeconfig.cache
