@@ -550,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\ShoppingCart.Service\\ShoppingCart.Service.csproj",
+      "projectUniqueName": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart.Service\\ShoppingCart.Service.csproj",
       "projectName": "ShoppingCart.Service",
-      "projectPath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\ShoppingCart.Service\\ShoppingCart.Service.csproj",
+      "projectPath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart.Service\\ShoppingCart.Service.csproj",
       "packagesPath": "C:\\Users\\train2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\ShoppingCart.Service\\obj\\",
+      "outputPath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -574,8 +574,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\train2\\source\\repos\\ShoppingCart\\shoppingCart.Domain\\shoppingCart.Domain.csproj": {
-              "projectPath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\shoppingCart.Domain\\shoppingCart.Domain.csproj"
+            "C:\\Users\\train2\\source\\repos\\e_commerce-website\\shoppingCart.Domain\\shoppingCart.Domain.csproj": {
+              "projectPath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\shoppingCart.Domain\\shoppingCart.Domain.csproj"
             }
           }
         }

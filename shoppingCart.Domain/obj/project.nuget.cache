@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zwBk+FI2kPA60KyQj7WROnFYXL4yKLs7mQ+XCPXfkxupqtrxlbIYgMoHBzPsh+CTNVHzSw4CZy6elnSMynjrRw==",
+  "dgSpecHash": "u2PzVTQsQERJfaiiH6kohADLfBc6cypo+vecWObRtdzGper3lmljhh+aC+UEmY/ONoaSpYdyaBtIq8iUQVR3/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\shoppingCart.Domain\\shoppingCart.Domain.csproj",
+  "projectFilePath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\shoppingCart.Domain\\shoppingCart.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

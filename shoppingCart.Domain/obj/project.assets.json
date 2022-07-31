@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\shoppingCart.Domain\\shoppingCart.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\shoppingCart.Domain\\shoppingCart.Domain.csproj",
       "projectName": "shoppingCart.Domain",
-      "projectPath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\shoppingCart.Domain\\shoppingCart.Domain.csproj",
+      "projectPath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\shoppingCart.Domain\\shoppingCart.Domain.csproj",
       "packagesPath": "C:\\Users\\train2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\shoppingCart.Domain\\obj\\",
+      "outputPath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\shoppingCart.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

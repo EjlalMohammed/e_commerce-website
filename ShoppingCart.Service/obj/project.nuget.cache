@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3fHopnvrbwEvYKwjfIGobd+oRrncr1aLeUqOZgM4twtVFLBGedgda1rgWPlxXIE00DZYbpbxMAIiKdIL4F3Cxw==",
+  "dgSpecHash": "T6PsFd1nVlN12wk778Xe0unSsZN6OzcnJdJljuwjjEPmNg2a0C8GLYjrJL+x2K+L5hZwQgbpq0gMSmkeyI6zpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\train2\\source\\repos\\ShoppingCart\\ShoppingCart.Service\\ShoppingCart.Service.csproj",
+  "projectFilePath": "C:\\Users\\train2\\source\\repos\\e_commerce-website\\ShoppingCart.Service\\ShoppingCart.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\train2\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "C:\\Users\\train2\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",

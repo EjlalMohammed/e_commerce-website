@@ -10,3 +10,15 @@ C:\Users\train2\source\repos\ShoppingCart\shoppingCart.Domain\obj\Debug\net6.0\s
 C:\Users\train2\source\repos\ShoppingCart\shoppingCart.Domain\obj\Debug\net6.0\refint\shoppingCart.Domain.dll
 C:\Users\train2\source\repos\ShoppingCart\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.pdb
 C:\Users\train2\source\repos\ShoppingCart\shoppingCart.Domain\obj\Debug\net6.0\ref\shoppingCart.Domain.dll
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\bin\Debug\net6.0\shoppingCart.Domain.deps.json
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\bin\Debug\net6.0\shoppingCart.Domain.dll
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\bin\Debug\net6.0\shoppingCart.Domain.pdb
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.csproj.AssemblyReference.cache
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.AssemblyInfoInputs.cache
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.AssemblyInfo.cs
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.dll
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\refint\shoppingCart.Domain.dll
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\shoppingCart.Domain.pdb
+C:\Users\train2\source\repos\e_commerce-website\shoppingCart.Domain\obj\Debug\net6.0\ref\shoppingCart.Domain.dll

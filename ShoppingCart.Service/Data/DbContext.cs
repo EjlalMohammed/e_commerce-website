@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using shoppingCart.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,5 +14,7 @@ namespace ShoppingCart.Service.Data
         {
               
         }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }
