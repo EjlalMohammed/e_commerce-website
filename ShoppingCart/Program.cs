@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using ShoppingCart.Service.Data;
 using ShoppingCart.Service.Infrastructure;
 using ShoppingCart.Service.Repository;
+using Microsoft.AspNetCore.Identity;
+using ShoppingCart.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,9 @@ builder.Services.AddTransient<ICategory, CategoryRepo>();
 builder.Services.AddTransient<IProduct, ProductRepo>();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("sqlConn")));
+
+builder.Services.AddDefaultIdentity<ShoppingCartUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<ShoppingCartContext>();
 
 var app = builder.Build();
 
@@ -27,6 +32,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 
