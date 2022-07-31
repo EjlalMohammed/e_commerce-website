@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using shoppingCart.Domain.Models;
 using ShoppingCart.Service.Infrastructure;
 
 namespace ShoppingCart.Controllers
@@ -14,19 +15,33 @@ namespace ShoppingCart.Controllers
         public IActionResult Index()
         {
             var AllCategories = _category.GetAllCategories();
-            return View();
+            return View(AllCategories);
         }
         public IActionResult Create()
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Create(Category category)
+        {
+            try
+            {
+                _category.AddCategory(category);
+                return RedirectToAction(nameof(Index)); 
+            }
+            catch
+            {
+                return View();
+            }
+        }
         public IActionResult Edit()
         {
             return View();
         }
-        public IActionResult Details()
+        public IActionResult Details(int id)
         {
-            return View();
+            var categories = _category.GetCategoryById(id);
+            return View(categories);
         }
         public IActionResult Delete()
         {

@@ -12,7 +12,7 @@ namespace ShoppingCart.Service.Repository
 
     public class CategoryRepo : ICategory
     {
-        private readonly AppDbContext _context;
+        AppDbContext _context;
 
         public CategoryRepo(AppDbContext context)
         {
