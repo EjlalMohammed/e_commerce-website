@@ -12,7 +12,7 @@ namespace ShoppingCart.Service.Infrastructure
         Category GetCategoryById(int id);
         void AddCategory(Category category);
         void UpdateCategory(Category category);
-        void DeleteCategory(int id);
+        void DeleteCategory(Category category);
         void save();
 
 
