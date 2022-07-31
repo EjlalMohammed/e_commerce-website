@@ -1,7 +1,14 @@
+using ShoppingCart.Service.Infrastructure;
+using ShoppingCart.Service.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddTransient<ICategory, CategoryRepo>();
+builder.Services.AddTransient<IProduct, ProductRepo>();
+
 
 var app = builder.Build();
 
