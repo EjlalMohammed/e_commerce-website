@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\shoppingCart.Domain\shoppingCart.Domain.csproj" />
+    <ProjectReference Include="..\ShoppingCart.Service\ShoppingCart.Service.csproj" />
+  </ItemGroup>
+
 </Project>
